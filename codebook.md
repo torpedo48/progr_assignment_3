@@ -1,14 +1,3 @@
----
-title: "codebook"
-author: "EC"
-date: "13/9/2020"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Codebook of the project
 ==================================
 ````
